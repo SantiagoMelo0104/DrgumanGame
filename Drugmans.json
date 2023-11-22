@@ -304,6 +304,92 @@
         "name": "Flat Heart Filled.png4",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Crown Coin_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Crown Coin_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/b15f7a6621cd76db63aedd5b53136da4a3b3a690e7a0d8b4cf907cc9e067de19_Crown Coin_No Shadow.png",
+          "name": "Crown Coin_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Crown Coin_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Crown Coin_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/e58724386c4e35a550e1009721adc894251ce8940be2b2c27d42de2a0bd12816_Crown Coin_Shadow.png",
+          "name": "Crown Coin_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "802119165cd6e28ce73e7884d6f10a1e3ad4d4d4bdc91e5f4723528c8abc9d23_Coin.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Level/802119165cd6e28ce73e7884d6f10a1e3ad4d4d4bdc91e5f4723528c8abc9d23_Coin.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/802119165cd6e28ce73e7884d6f10a1e3ad4d4d4bdc91e5f4723528c8abc9d23_Coin.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "802119165cd6e28ce73e7884d6f10a1e3ad4d4d4bdc91e5f4723528c8abc9d23_Coin.png2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Crown Coin_Shadow2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "e58724386c4e35a550e1009721adc894251ce8940be2b2c27d42de2a0bd12816_Crown Coin_Shadow.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/e58724386c4e35a550e1009721adc894251ce8940be2b2c27d42de2a0bd12816_Crown Coin_Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/OpenSans-Italic-VariableFont_wdth,wght.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "8c4544654743d56682bd6d16e092a9a29da45d2a6b35e810d9d3b73217492df9_OpenSans-Italic-VariableFont_wdth,wght.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/8c4544654743d56682bd6d16e092a9a29da45d2a6b35e810d9d3b73217492df9_OpenSans-Italic-VariableFont_wdth,wght.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Coins 8.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "c52f1dacc263a2a6dc94e712a2a148f909b73372fa8e0622cb237fdc6a72fd6c_Coins 8.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Coins/c52f1dacc263a2a6dc94e712a2a148f909b73372fa8e0622cb237fdc6a72fd6c_Coins 8.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -313,14 +399,7 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [
-    {
-      "folded": true,
-      "name": "CaracterSelector",
-      "type": "number",
-      "value": 0
-    }
-  ],
+  "variables": [],
   "layouts": [
     {
       "b": 209,
@@ -757,7 +836,7 @@
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "CaracterSelector",
+                    "Score",
                     "=",
                     "0"
                   ]
@@ -822,7 +901,7 @@
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "CaracterSelector",
+                    "Score",
                     "=",
                     "0"
                   ]
@@ -879,7 +958,7 @@
                     "value": "ModVarGlobal"
                   },
                   "parameters": [
-                    "CaracterSelector",
+                    "Score",
                     "=",
                     "1"
                   ]
@@ -1054,7 +1133,14 @@
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "Puntaje",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -2467,12 +2553,72 @@
           "customSize": false,
           "height": 0,
           "layer": "Vida",
-          "name": "FlatHeartBar",
-          "persistentUuid": "43ce1193-a91f-40d6-ba98-dad450eb776a",
+          "name": "Puntaje",
+          "persistentUuid": "ee987afa-7d98-498b-a1ac-4f950cc14d61",
+          "width": 0,
+          "x": 1088,
+          "y": 0,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Moneda",
+          "persistentUuid": "d64f9062-8c11-42c9-9a76-655c364a708e",
+          "width": 0,
+          "x": 768,
+          "y": 160,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Moneda",
+          "persistentUuid": "2d43e232-9d01-42c4-9aef-004769239d75",
+          "width": 0,
+          "x": 832,
+          "y": 160,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Moneda",
+          "persistentUuid": "e1850dcf-2e44-472c-af0b-9680fb3cf113",
+          "width": 0,
+          "x": 896,
+          "y": 160,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Vida",
+          "name": "Corazon",
+          "persistentUuid": "995e7025-693e-4399-ba0f-a9640664a2ab",
           "width": 0,
           "x": 32,
           "y": 0,
-          "zOrder": 12,
+          "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2819,8 +2965,137 @@
           ]
         },
         {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Puntaje",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Puntos : 0 ",
+          "font": "8c4544654743d56682bd6d16e092a9a29da45d2a6b35e810d9d3b73217492df9_OpenSans-Italic-VariableFont_wdth,wght.ttf",
+          "textAlignment": "center",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "115c962b57d0fb5f6b62493b58bd72d441562d6c95e0449b0d734173171e95ef",
+          "name": "Moneda",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "No Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Crown Coin_No Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 5
+                          },
+                          {
+                            "x": 28,
+                            "y": 5
+                          },
+                          {
+                            "x": 28,
+                            "y": 26
+                          },
+                          {
+                            "x": 3,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Crown Coin_Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 5
+                          },
+                          {
+                            "x": 28,
+                            "y": 5
+                          },
+                          {
+                            "x": 28,
+                            "y": 26
+                          },
+                          {
+                            "x": 3,
+                            "y": 26
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "assetStoreId": "c807d51d4bab0016401aef4d64d10d137f5ac8738ffa15865e1bc81435b9720b",
-          "name": "FlatHeartBar",
+          "name": "Corazon",
           "type": "TiledUnitsBar::TiledUnitsBar",
           "variables": [],
           "effects": [],
@@ -2870,7 +3145,13 @@
             "objectName": "Man"
           },
           {
-            "objectName": "FlatHeartBar"
+            "objectName": "Puntaje"
+          },
+          {
+            "objectName": "Moneda"
+          },
+          {
+            "objectName": "Corazon"
           }
         ]
       },
@@ -2880,6 +3161,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Inicio de escena",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -2906,7 +3188,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "CaracterSelector",
+                        "Score",
                         "=",
                         "0"
                       ]
@@ -2946,7 +3228,7 @@
                         "value": "VarGlobal"
                       },
                       "parameters": [
-                        "CaracterSelector",
+                        "Score",
                         "=",
                         "1"
                       ]
@@ -3079,15 +3361,6 @@
                 },
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                  },
-                  "parameters": [
-                    "Man",
-                    "Animation"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "BuiltinCommonInstructions::Once"
                   },
                   "parameters": []
@@ -3109,12 +3382,14 @@
                 },
                 {
                   "type": {
-                    "value": "MettreX"
+                    "value": "MettreXY"
                   },
                   "parameters": [
                     "Man",
                     "=",
-                    "640"
+                    "640",
+                    "=",
+                    "224"
                   ]
                 }
               ],
@@ -3151,7 +3426,7 @@
                         "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
                       },
                       "parameters": [
-                        "FlatHeartBar",
+                        "Corazon",
                         "=",
                         "Man.Health::Health()",
                         ""
@@ -3194,6 +3469,85 @@
                   },
                   "parameters": [
                     "Man",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Puntaje",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Man",
+                    "Moneda",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Puntaje",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Puntaje",
+                    "Text",
+                    "=",
+                    "\"Puntos : \" + ToString(Variable(Puntaje))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Moneda",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "c52f1dacc263a2a6dc94e712a2a148f909b73372fa8e0622cb237fdc6a72fd6c_Coins 8.aac",
+                    "",
+                    "100",
                     ""
                   ]
                 }
@@ -3316,6 +3670,10 @@
         {
           "name": "SmoothCamera",
           "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
