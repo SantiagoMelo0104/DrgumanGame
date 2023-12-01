@@ -109,54 +109,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Grey Button_Hovered.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Grey Button_Hovered.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b43e0035dca80ea2fad5c5d65de926dae0185038e5f9cb21d5f20234f30d1c76_Grey Button_Hovered.png",
-          "name": "Grey Button_Hovered.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Grey Button_Idle.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Grey Button_Idle.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/da7fc2efa0882eb5dfa0266315f2483c2f68d86a6751dc309ea9e9d0dd4759ba_Grey Button_Idle.png",
-          "name": "Grey Button_Idle.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Grey Button_Pressed.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Grey Button_Pressed.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/49c35e14af0e1f7aae407455cb944de96328955870e5f1500f63723ad879a42e_Grey Button_Pressed.png",
-          "name": "Grey Button_Pressed.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/c19d99fdba386386d157f5303ed66d60e4ef416725bcabcccce0b57238aa2262_Cursor-3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "c19d99fdba386386d157f5303ed66d60e4ef416725bcabcccce0b57238aa2262_Cursor-3",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
         "file": "assets/Jump_Start_01.wav",
         "kind": "audio",
         "metadata": "",
@@ -234,17 +186,6 @@
         "origin": {
           "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/e58724386c4e35a550e1009721adc894251ce8940be2b2c27d42de2a0bd12816_Crown Coin_Shadow.png",
           "name": "Crown Coin_Shadow.png"
-        }
-      },
-      {
-        "file": "assets/OpenSans-Italic-VariableFont_wdth,wght.ttf",
-        "kind": "font",
-        "metadata": "",
-        "name": "8c4544654743d56682bd6d16e092a9a29da45d2a6b35e810d9d3b73217492df9_OpenSans-Italic-VariableFont_wdth,wght.ttf",
-        "userAdded": true,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/8c4544654743d56682bd6d16e092a9a29da45d2a6b35e810d9d3b73217492df9_OpenSans-Italic-VariableFont_wdth,wght.ttf",
-          "name": "gdevelop-asset-store"
         }
       },
       {
@@ -935,33 +876,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Right4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Right4.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Right5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Right5.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Right6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Right6.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Up10.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Up10.png\",\"extension\":\".png\"}",
@@ -1047,7 +961,7 @@
         "alwaysLoaded": false,
         "file": "assets/Black Decorated Button_Idle.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Black Decorated Button_Idle.png\",\"extension\":\".png\",\"pskl\":{}}",
         "name": "Black Decorated Button_Idle.png",
         "smoothed": false,
         "userAdded": false,
@@ -1079,6 +993,65 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ab812c7d15ad3474b6e55761235713b68f34374f3f064d1b8685ed46720df2f8_ArchitectsDaughter.ttf",
           "name": "ArchitectsDaughter.ttf"
         }
+      },
+      {
+        "file": "prstart.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "prstart.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "prstartk.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "prstartk.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite.png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Black Square Decorated Button_Idle.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/Black Square Decorated Button_Idle.png4.png\"}",
+        "name": "Black Square Decorated Button_Idle.png4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Black Square Decorated Button_Hovered.png5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Black Square Decorated Button_Hovered.png5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Black Square Decorated Button_Pressed.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Black Square Decorated Button_Pressed.png2",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1088,7 +1061,20 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "minutos",
+      "type": "number",
+      "value": 2
+    },
+    {
+      "folded": true,
+      "name": "Segundos",
+      "type": "number",
+      "value": 59
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -1325,7 +1311,7 @@
               },
               "parameters": [
                 "",
-                "\"SelectCaracter\"",
+                "\"Inicio\"",
                 ""
               ]
             }
@@ -1403,15 +1389,15 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
-      "mangledName": "SelectCaracter",
-      "name": "SelectCaracter",
+      "mangledName": "Inicio",
+      "name": "Inicio",
       "r": 209,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -1419,8 +1405,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 1.0269425874981073,
+        "snap": false,
+        "zoomFactor": 0.9296875000000006,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1428,30 +1414,32 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 84,
           "layer": "",
-          "name": "GreyButton",
-          "persistentUuid": "d156794e-c770-4dc0-b6ca-9888180fbfde",
-          "width": 0,
-          "x": 512,
-          "y": 512,
-          "zOrder": 1,
+          "name": "Drugman",
+          "persistentUuid": "34a341d1-0577-4ba7-854e-972e5daa944a",
+          "width": 64,
+          "x": 956,
+          "y": 590,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "angle": 355,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
           "layer": "",
-          "name": "TextSelectCaracter",
-          "persistentUuid": "c7a4607c-5184-409e-a58a-be1ebf2ef086",
-          "width": 0,
-          "x": 437,
-          "y": 180,
-          "zOrder": 1,
+          "name": "Title",
+          "persistentUuid": "c4948891-d225-4dec-a852-1d2e684a06cf",
+          "width": 636,
+          "x": 353,
+          "y": 75,
+          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1460,14 +1448,126 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 128,
+          "height": 719,
           "layer": "",
-          "name": "Drugman",
-          "persistentUuid": "25a0d3b1-0f25-4ac6-a563-3d092fe3eb8e",
-          "width": 128,
-          "x": 576,
-          "y": 288,
-          "zOrder": 2,
+          "name": "Fondo",
+          "persistentUuid": "99f61386-cb35-49e5-b3e2-7b712ebf21dd",
+          "width": 1280,
+          "x": 0,
+          "y": 0,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 79,
+          "layer": "",
+          "name": "PolicePink",
+          "persistentUuid": "7b45f058-f70e-48db-9542-3ff383f2854a",
+          "width": 64,
+          "x": 418,
+          "y": 597,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 83,
+          "layer": "",
+          "name": "PoliceRed",
+          "persistentUuid": "d2dffac3-a048-4c4f-943a-6cad71ab041f",
+          "width": 73,
+          "x": 795,
+          "y": 589,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 82,
+          "layer": "",
+          "name": "PoliceOrange",
+          "persistentUuid": "a7766290-40d3-4eb8-a11c-208259e23e09",
+          "width": 73,
+          "x": 202,
+          "y": 591,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 76,
+          "layer": "",
+          "name": "PoliceCian",
+          "persistentUuid": "7bc77448-91cc-4ed1-a5d4-b55be2d71336",
+          "width": 64,
+          "x": 653,
+          "y": 598,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 136,
+          "layer": "",
+          "name": "comentario",
+          "persistentUuid": "28bf9168-809c-4840-9ce9-2adf3746bfad",
+          "width": 198,
+          "x": 1004,
+          "y": 488,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 40,
+          "layer": "",
+          "name": "TextoComentario",
+          "persistentUuid": "6ac61423-680c-4a3d-811b-f6a50f91cf99",
+          "width": 140,
+          "x": 1039,
+          "y": 555,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 32,
+          "height": 82,
+          "layer": "",
+          "name": "BtnStart",
+          "persistentUuid": "ebc8b2d8-7a5e-4ca7-b660-97f5fa1ba110",
+          "width": 245,
+          "x": 515,
+          "y": 391,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1475,129 +1575,27 @@
       ],
       "objects": [
         {
-          "assetStoreId": "bfab3a269992cf43081e2cb8053c28aaef11f2f9e0d0cbdc00207ea271f69c2c",
-          "name": "GreyButton",
-          "type": "PanelSpriteButton::PanelSpriteButton",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "LeftPadding": 16,
-            "RightPadding": 16,
-            "PressedLabelOffsetY": 10,
-            "BottomPadding": 32,
-            "TopPadding": 16,
-            "HoveredFadeOutDuration": 0.25
-          },
-          "childrenContent": {
-            "Hovered": {
-              "bottomMargin": 32,
-              "height": 106,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Grey Button_Hovered.png",
-              "tiled": true,
-              "topMargin": 16,
-              "width": 256
-            },
-            "Idle": {
-              "bottomMargin": 32,
-              "height": 106,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Grey Button_Idle.png",
-              "tiled": true,
-              "topMargin": 16,
-              "width": 256
-            },
-            "Label": {
-              "bold": false,
-              "italic": false,
-              "smoothed": true,
-              "underlined": false,
-              "string": "Button",
-              "font": "",
-              "textAlignment": "center",
-              "characterSize": 60,
-              "color": {
-                "b": 79,
-                "g": 72,
-                "r": 72
-              }
-            },
-            "Pressed": {
-              "bottomMargin": 16,
-              "height": 106,
-              "leftMargin": 16,
-              "rightMargin": 16,
-              "texture": "Grey Button_Pressed.png",
-              "tiled": true,
-              "topMargin": 32,
-              "width": 256
-            }
-          }
-        },
-        {
-          "assetStoreId": "",
-          "bold": false,
-          "italic": false,
-          "name": "TextSelectCaracter",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "string": "Selecciona tu personaje",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 40,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
-        },
-        {
           "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Selector",
+          "assetStoreId": "8c3ed71852bf8e31e774748ba5330fe84ccf03304b523977c102db400c72d39f",
+          "name": "Drugman",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "Sway",
-              "type": "Sway::Sway",
-              "AngleLeft": -5,
-              "AngleRight": 5,
-              "AngleTimeMin": 1,
-              "AngleTimeMax": 3,
-              "YScaleMin": 1,
-              "YScaleMax": 1.2,
-              "YScaleTimeMin": 1,
-              "YScaleTimeMax": 3,
-              "TweenBehavior": "Tween"
-            },
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
-              "name": "c19d99fdba386386d157f5303ed66d60e4ef416725bcabcccce0b57238aa2262_Cursor-3",
+              "name": "Right",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.15,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "c19d99fdba386386d157f5303ed66d60e4ef416725bcabcccce0b57238aa2262_Cursor-3",
+                      "image": "Right7",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1614,19 +1612,91 @@
                         [
                           {
                             "x": 0,
-                            "y": 0
+                            "y": 2
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 25,
+                            "y": 2
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 25,
+                            "y": 31
                           },
                           {
                             "x": 0,
-                            "y": 64
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
                           }
                         ]
                       ]
@@ -1634,19 +1704,7 @@
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "8c3ed71852bf8e31e774748ba5330fe84ccf03304b523977c102db400c72d39f",
-          "name": "Drugman",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
+            },
             {
               "name": "Down",
               "useMultipleDirections": false,
@@ -1678,11 +1736,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -1714,11 +1772,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -1750,11 +1808,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -1799,11 +1857,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -1835,11 +1893,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -1871,132 +1929,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
-                            "y": 31
-                          },
-                          {
-                            "x": 0,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Right",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.1667,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Right7",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 2
-                          },
-                          {
-                            "x": 23,
-                            "y": 2
-                          },
-                          {
-                            "x": 23,
-                            "y": 31
-                          },
-                          {
-                            "x": 0,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Right8",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 2
-                          },
-                          {
-                            "x": 23,
-                            "y": 2
-                          },
-                          {
-                            "x": 23,
-                            "y": 31
-                          },
-                          {
-                            "x": 0,
-                            "y": 31
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Right9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 2
-                          },
-                          {
-                            "x": 23,
-                            "y": 2
-                          },
-                          {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -2041,11 +1978,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -2077,11 +2014,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -2113,11 +2050,11 @@
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 2
                           },
                           {
-                            "x": 23,
+                            "x": 25,
                             "y": 31
                           },
                           {
@@ -2132,6 +2069,2285 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Title",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "DRUGMAN",
+            "opacity": 255,
+            "scale": 6,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "center",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Fondo",
+          "texture": "city.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "483c8d305055b43dd98964858b231c019680b47f3bc7aaf000e362bc5d72066d",
+          "name": "PolicePink",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "movimiento",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 50,
+              "allowDiagonals": true,
+              "angularMaxSpeed": 180,
+              "maxSpeed": 80,
+              "angleOffset": 0,
+              "cellHeight": 10,
+              "cellWidth": 10,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "Walking Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Right",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Right2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Right3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walking Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Down10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Down11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Down12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walking Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Left7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Left8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Left9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walking Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Up7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Up8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Up9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "ed67ad30a2375eeca872dae8b80a2e6c0b58beb617debc5da91737a15b81af99",
+          "name": "PoliceCian",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 50,
+              "allowDiagonals": true,
+              "angularMaxSpeed": 180,
+              "maxSpeed": 85,
+              "angleOffset": 0,
+              "cellHeight": 10,
+              "cellWidth": 10,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "Walking Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Right4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Right5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Right6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walking Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Down7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Down8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Down9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walking Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Left4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Left5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Left6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Walking Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Up4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Up5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walking Up6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 0
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "55702840dfa999f65e2da0382b44dc4dc65c51114e6a920daff98a6a26de499b",
+          "name": "PoliceOrange",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
+              "acceleration": 50,
+              "allowDiagonals": true,
+              "angularMaxSpeed": 180,
+              "cellHeight": 9,
+              "cellWidth": 9,
+              "maxSpeed": 90,
+              "angleOffset": 0,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Down16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Down17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Down18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Up16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Up17.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Up18.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "55702840dfa999f65e2da0382b44dc4dc65c51114e6a920daff98a6a26de499b",
+          "name": "PoliceRed",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
+              "allowDiagonals": true,
+              "angularMaxSpeed": 180,
+              "acceleration": 100,
+              "angleOffset": 0,
+              "cellHeight": 10,
+              "cellWidth": 10,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 100,
+              "rotateObject": false,
+              "smoothingMaxCellGap": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Right18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Down13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Down14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Down15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Left18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Up7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Up8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Up9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 2
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 0,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "comentario",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 23
+                          },
+                          {
+                            "x": 61,
+                            "y": 23
+                          },
+                          {
+                            "x": 61,
+                            "y": 51
+                          },
+                          {
+                            "x": 5,
+                            "y": 51
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 23
+                          },
+                          {
+                            "x": 61,
+                            "y": 23
+                          },
+                          {
+                            "x": 61,
+                            "y": 51
+                          },
+                          {
+                            "x": 5,
+                            "y": 51
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "TextoComentario",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            }
+          ],
+          "content": {
+            "text": "Uyy Perro!!!",
+            "opacity": 255,
+            "scale": 1,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "center",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "0d2644a425931f79026065835332ea795353d1f99fcd6ccd47ab7927bd0f35ed",
+          "name": "BtnStart",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 6,
+            "BottomPadding": 24,
+            "TopPadding": 24,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 22,
+              "height": 64,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Black Square Decorated Button_Hovered.png5",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 22,
+              "height": 60,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Black Square Decorated Button_Idle.png4",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Start",
+              "font": "prstartk.ttf",
+              "textAlignment": "center",
+              "characterSize": 26,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 64,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "Black Square Decorated Button_Pressed.png2",
+              "tiled": true,
+              "topMargin": 22,
+              "width": 192
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -2141,13 +4357,31 @@
             "objectName": "Drugman"
           },
           {
-            "objectName": "GreyButton"
+            "objectName": "Title"
           },
           {
-            "objectName": "TextSelectCaracter"
+            "objectName": "Fondo"
           },
           {
-            "objectName": "Selector"
+            "objectName": "PolicePink"
+          },
+          {
+            "objectName": "PoliceRed"
+          },
+          {
+            "objectName": "PoliceOrange"
+          },
+          {
+            "objectName": "PoliceCian"
+          },
+          {
+            "objectName": "comentario"
+          },
+          {
+            "objectName": "TextoComentario"
+          },
+          {
+            "objectName": "BtnStart"
           }
         ]
       },
@@ -2183,47 +4417,21 @@
                     "=",
                     "0"
                   ]
-                },
-                {
-                  "type": {
-                    "value": "ChangePlan"
-                  },
-                  "parameters": [
-                    "Selector",
-                    "=",
-                    "2"
-                  ]
                 }
               ]
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
+              "conditions": [],
               "actions": [
                 {
                   "type": {
-                    "value": "ModVarGlobal"
+                    "value": "TiledSpriteObject::XOffset"
                   },
                   "parameters": [
-                    "Score",
-                    "=",
-                    "0"
+                    "Fondo",
+                    "+",
+                    "130*TimeDelta()"
                   ]
                 }
               ]
@@ -2231,60 +4439,6 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
-                {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "Drugman",
-                    "",
-                    "yes",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MouseButtonPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ModVarGlobal"
-                  },
-                  "parameters": [
-                    "Score",
-                    "=",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "SourisSurObjet"
-                  },
-                  "parameters": [
-                    "GreyButton",
-                    "",
-                    "yes",
-                    ""
-                  ]
-                },
                 {
                   "type": {
                     "value": "MouseButtonPressed"
@@ -2309,6 +4463,26 @@
                   "parameters": [
                     "",
                     "\"Game\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "minutos",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Segundos",
+                    "=",
+                    "59"
                   ]
                 }
               ]
@@ -2368,6 +4542,10 @@
           "type": "AnimatableCapability::AnimatableBehavior"
         },
         {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
         },
@@ -2380,6 +4558,10 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
           "name": "Resizable",
           "type": "ResizableCapability::ResizableBehavior"
         },
@@ -2388,16 +4570,8 @@
           "type": "ScalableCapability::ScalableBehavior"
         },
         {
-          "name": "Sway",
-          "type": "Sway::Sway"
-        },
-        {
           "name": "Text",
           "type": "TextContainerCapability::TextContainerBehavior"
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -2412,7 +4586,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -2420,8 +4594,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 1.1343715797160991,
+        "snap": true,
+        "zoomFactor": 0.9610368693714763,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3374,22 +5548,6 @@
           "x": 896,
           "y": 608,
           "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 38,
-          "layer": "Vida",
-          "name": "Puntaje",
-          "persistentUuid": "ee987afa-7d98-498b-a1ac-4f950cc14d61",
-          "width": 267,
-          "x": 501,
-          "y": 0,
-          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -9147,6 +11305,69 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "segundos",
+          "persistentUuid": "8638f310-cc33-4936-91bb-587aef56284f",
+          "width": 67,
+          "x": 1153,
+          "y": 29,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "layer": "",
+          "name": "minutos",
+          "persistentUuid": "d305b46f-5804-4156-9406-f54b3f0fd917",
+          "width": 45,
+          "x": 1084,
+          "y": 29,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 39,
+          "layer": "",
+          "name": "separadorTiempo",
+          "persistentUuid": "b8259c47-bed3-49f6-ade5-6689d7bf1a23",
+          "width": 14,
+          "x": 1127,
+          "y": 25,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Score",
+          "persistentUuid": "573bb4cb-328a-4bb9-873a-1c56ca685a6b",
+          "width": 0,
+          "x": 521,
+          "y": 39,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -9161,9 +11382,9 @@
           "effects": [],
           "behaviors": [
             {
-              "cost": 2,
               "name": "PathfindingObstacle",
               "type": "PathfindingBehavior::PathfindingObstacleBehavior",
+              "cost": 2,
               "impassable": true
             }
           ]
@@ -9180,7 +11401,7 @@
           "effects": [],
           "behaviors": [],
           "string": "Puntos : 0 ",
-          "font": "8c4544654743d56682bd6d16e092a9a29da45d2a6b35e810d9d3b73217492df9_OpenSans-Italic-VariableFont_wdth,wght.ttf",
+          "font": "prstart.ttf",
           "textAlignment": "center",
           "characterSize": 30,
           "color": {
@@ -9462,11 +11683,11 @@
               "HealToBeApplied": 0
             },
             {
-              "cellHeight": 15,
-              "cellWidth": 15,
+              "acceleration": 70,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
-              "acceleration": 0,
+              "cellHeight": 15,
+              "cellWidth": 15,
               "allowDiagonals": false,
               "angularMaxSpeed": 0,
               "maxSpeed": 100,
@@ -9530,12 +11751,12 @@
               "IsCalledManually": false
             },
             {
+              "acceleration": 70,
+              "deceleration": 500,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
-              "acceleration": 50,
               "allowDiagonals": false,
               "angularMaxSpeed": 0,
-              "deceleration": 500,
               "maxSpeed": 100,
               "angleOffset": 0,
               "customIsometryAngle": 30,
@@ -10526,14 +12747,14 @@
           "effects": [],
           "behaviors": [
             {
-              "acceleration": 50,
-              "allowDiagonals": true,
-              "angularMaxSpeed": 180,
-              "cellHeight": 9,
-              "cellWidth": 9,
-              "maxSpeed": 90,
+              "acceleration": 70,
+              "cellHeight": 11,
+              "cellWidth": 11,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "allowDiagonals": true,
+              "angularMaxSpeed": 180,
+              "maxSpeed": 90,
               "angleOffset": 0,
               "extraBorder": 0,
               "gridOffsetX": 0,
@@ -11039,10 +13260,10 @@
           "effects": [],
           "behaviors": [
             {
-              "allowDiagonals": true,
-              "angularMaxSpeed": 180,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "allowDiagonals": true,
+              "angularMaxSpeed": 180,
               "acceleration": 100,
               "angleOffset": 0,
               "cellHeight": 10,
@@ -11559,15 +13780,15 @@
           "effects": [],
           "behaviors": [
             {
-              "acceleration": 50,
+              "acceleration": 70,
+              "cellHeight": 10,
+              "cellWidth": 10,
+              "name": "Pathfinding",
+              "type": "PathfindingBehavior::PathfindingBehavior",
               "allowDiagonals": true,
               "angularMaxSpeed": 180,
               "maxSpeed": 80,
-              "name": "Pathfinding",
-              "type": "PathfindingBehavior::PathfindingBehavior",
               "angleOffset": 0,
-              "cellHeight": 10,
-              "cellWidth": 10,
               "extraBorder": 0,
               "gridOffsetX": 0,
               "gridOffsetY": 0,
@@ -12072,15 +14293,15 @@
           "effects": [],
           "behaviors": [
             {
-              "acceleration": 50,
-              "allowDiagonals": true,
-              "angularMaxSpeed": 180,
+              "acceleration": 70,
+              "cellHeight": 11,
+              "cellWidth": 11,
               "maxSpeed": 85,
               "name": "Pathfinding",
               "type": "PathfindingBehavior::PathfindingBehavior",
+              "allowDiagonals": true,
+              "angularMaxSpeed": 180,
               "angleOffset": 0,
-              "cellHeight": 10,
-              "cellWidth": 10,
               "extraBorder": 0,
               "gridOffsetX": 0,
               "gridOffsetY": 0,
@@ -12634,6 +14855,82 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "segundos",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "0",
+            "opacity": 255,
+            "scale": 2,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "minutos",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "0",
+            "opacity": 255,
+            "scale": 2,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "separadorTiempo",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": ":",
+            "opacity": 255,
+            "scale": 2,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Score",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Puntos : 0",
+            "opacity": 255,
+            "scale": 2,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "left",
+            "wordWrap": true
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -12671,6 +14968,18 @@
           },
           {
             "objectName": "marijuana"
+          },
+          {
+            "objectName": "segundos"
+          },
+          {
+            "objectName": "minutos"
+          },
+          {
+            "objectName": "separadorTiempo"
+          },
+          {
+            "objectName": "Score"
           }
         ]
       },
@@ -12680,11 +14989,13 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Inicio de escena",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -12697,6 +15008,15 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"SEGUNDOS\""
+                  ]
+                },
                 {
                   "type": {
                     "value": "Create"
@@ -12783,7 +15103,165 @@
                         "646",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "SmoothCamera::SmoothCamera::MoveCameraCloser"
+                      },
+                      "parameters": [
+                        "Drugman",
+                        "SmoothCamera",
+                        ""
+                      ]
                     }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CompareTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"SEGUNDOS\"",
+                    ">",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Segundos",
+                    "=",
+                    "GlobalVariable(Segundos)-1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"SEGUNDOS\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "segundos",
+                    "Text",
+                    "=",
+                    "ToString(GlobalVariable(Segundos))"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "minutos",
+                    "Text",
+                    "=",
+                    "ToString(GlobalVariable(minutos))"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Segundos",
+                    "<",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "minutos",
+                    "=",
+                    "GlobalVariable(minutos)-1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Segundos",
+                    "=",
+                    "59"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "minutos",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "Segundos",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "RemoveTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"SEGUNDOS\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Finish\"",
+                    "yes"
                   ]
                 }
               ]
@@ -12930,6 +15408,408 @@
                   },
                   "parameters": [
                     "PolicePink",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "<=",
+                    "Drugman.Y()\n"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "<=",
+                    "Drugman.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "Animation",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "Animation",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "<=",
+                    "Drugman.Y()\n"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    ">=",
+                    "Drugman.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "Animation",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "Animation",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceOrange",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "<=",
+                    "Drugman.Y()\n"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "<=",
+                    "Drugman.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "Animation",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "Animation",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "<=",
+                    "Drugman.Y()\n"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    ">=",
+                    "Drugman.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "Animation",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "Animation",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceRed",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "<=",
+                    "Drugman.Y()\n"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "<=",
+                    "Drugman.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "Animation",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "Animation",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "Animation"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "<=",
+                    "Drugman.Y()\n"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    ">=",
+                    "Drugman.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "Animation",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "Animation"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "PoliceCian",
+                    "Animation",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                  },
+                  "parameters": [
+                    "PoliceCian",
                     "Animation"
                   ]
                 }
@@ -13204,7 +16084,7 @@
                     "value": "CollisionNP"
                   },
                   "parameters": [
-                    "PolicePink",
+                    "Drugman",
                     "wall",
                     "",
                     "",
@@ -13218,7 +16098,7 @@
                     "value": "SeparateFromObjects"
                   },
                   "parameters": [
-                    "PolicePink",
+                    "Drugman",
                     "wall",
                     ""
                   ]
@@ -13233,7 +16113,7 @@
                     "value": "CollisionNP"
                   },
                   "parameters": [
-                    "Drugman",
+                    "PolicePink",
                     "wall",
                     "",
                     "",
@@ -13247,7 +16127,7 @@
                     "value": "SeparateFromObjects"
                   },
                   "parameters": [
-                    "Drugman",
+                    "PolicePink",
                     "wall",
                     ""
                   ]
@@ -13502,55 +16382,6 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Drugman",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "Drugman",
-                    "Health",
-                    "1",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Drugman",
-                    "=",
-                    "616",
-                    "=",
-                    "646"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
                     "value": "Health::Health::IsJustDamaged"
                   },
                   "parameters": [
@@ -13615,10 +16446,29 @@
               "actions": [
                 {
                   "type": {
+                    "value": "RemoveTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"SEGUNDOS\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Delete"
                   },
                   "parameters": [
                     "Drugman",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Finish\"",
                     ""
                   ]
                 }
@@ -13751,7 +16601,6 @@
               ]
             },
             {
-              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -13866,7 +16715,6 @@
               ]
             },
             {
-              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -13981,7 +16829,6 @@
               ]
             },
             {
-              "disabled": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -14103,7 +16950,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Puntaje",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14146,7 +16992,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "Puntaje",
+                    "Score",
                     "Text",
                     "=",
                     "\"Puntos : \" + ToString(Variable(Puntaje))"
@@ -15166,7 +18012,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7876290101673754,
+        "zoomFactor": 0.8141881203709918,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -15180,9 +18026,9 @@
           "layer": "",
           "name": "Fondo",
           "persistentUuid": "dff1473c-2ac8-4fff-8913-3c84d6b3839a",
-          "width": 1280,
-          "x": -1,
-          "y": -1,
+          "width": 1283,
+          "x": -2,
+          "y": -3,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -15197,24 +18043,24 @@
           "name": "Title",
           "persistentUuid": "1cef07fa-0e59-4ef6-97e5-184214241411",
           "width": 604,
-          "x": 299,
-          "y": 92,
+          "x": 302,
+          "y": 97,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 0,
+          "angle": 353,
           "customSize": true,
           "depth": 1,
-          "height": 78,
+          "height": 57,
           "layer": "",
           "name": "Reset",
-          "persistentUuid": "37057b9c-c445-4c46-a62f-d3102269df23",
-          "width": 272,
-          "x": 752,
-          "y": 403,
+          "persistentUuid": "26123a96-0ad0-4f2e-9d5e-203cc8772813",
+          "width": 207,
+          "x": 321,
+          "y": 591,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -15223,15 +18069,31 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 32,
-          "height": 119,
+          "depth": 1,
+          "height": 39,
           "layer": "",
-          "name": "BlackDecoratedButton",
-          "persistentUuid": "7385c148-e60e-4d9f-b712-de0b25f6f7f4",
-          "width": 349,
-          "x": 441,
-          "y": 507,
+          "name": "agradecimeinto",
+          "persistentUuid": "a71ba086-e2a7-4cd8-a6e3-1bdddb23f2e5",
+          "width": 1076,
+          "x": 145,
+          "y": 350,
           "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 349,
+          "customSize": true,
+          "depth": 1,
+          "height": 93,
+          "layer": "",
+          "name": "Salir",
+          "persistentUuid": "6088c5ad-1e9c-4114-adf2-160b08bc67a4",
+          "width": 162,
+          "x": 738,
+          "y": 585,
+          "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15298,9 +18160,9 @@
             }
           ],
           "content": {
-            "text": "Reset",
+            "text": "Reset ",
             "opacity": 255,
-            "scale": 4,
+            "scale": 3,
             "fontSize": 20,
             "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
@@ -15350,14 +18212,14 @@
               "italic": false,
               "smoothed": true,
               "underlined": false,
-              "string": "Button",
+              "string": "Reset",
               "font": "ArchitectsDaughter.ttf",
-              "textAlignment": "center",
-              "characterSize": 22,
+              "textAlignment": "left",
+              "characterSize": 30,
               "color": {
-                "b": 255,
-                "g": 255,
-                "r": 255
+                "b": 0,
+                "g": 0,
+                "r": 0
               }
             },
             "Pressed": {
@@ -15370,6 +18232,57 @@
               "topMargin": 22,
               "width": 192
             }
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "agradecimeinto",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Gracias por jugar !!!  (￣┰￣*)",
+          "font": "prstartk.ttf",
+          "textAlignment": "left",
+          "characterSize": 35,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Salir",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            }
+          ],
+          "content": {
+            "text": "Quit",
+            "opacity": 255,
+            "scale": 3,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+            "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+            "align": "center",
+            "wordWrap": true
           }
         }
       ],
@@ -15389,7 +18302,13 @@
             "objectName": "Reset"
           },
           {
+            "objectName": "Salir"
+          },
+          {
             "objectName": "BlackDecoratedButton"
+          },
+          {
+            "objectName": "agradecimeinto"
           }
         ]
       },
@@ -15412,8 +18331,55 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Reset",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Inicio\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "Salir",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -15469,6 +18435,10 @@
         {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
         },
         {
           "name": "Opacity",
