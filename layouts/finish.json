@@ -9,7 +9,7 @@
   "title": "",
   "v": 209,
   "uiSettings": {
-    "grid": false,
+    "grid": true,
     "gridType": "rectangular",
     "gridWidth": 32,
     "gridHeight": 32,
@@ -17,8 +17,8 @@
     "gridOffsetY": 0,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
-    "snap": false,
-    "zoomFactor": 0.8141881203709918,
+    "snap": true,
+    "zoomFactor": 1.0615714305219983,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -57,22 +57,6 @@
       "initialVariables": []
     },
     {
-      "angle": 353,
-      "customSize": true,
-      "depth": 1,
-      "height": 57,
-      "layer": "",
-      "name": "Reset",
-      "persistentUuid": "26123a96-0ad0-4f2e-9d5e-203cc8772813",
-      "width": 207,
-      "x": 321,
-      "y": 591,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 0,
       "customSize": true,
       "depth": 1,
@@ -89,17 +73,33 @@
       "initialVariables": []
     },
     {
-      "angle": 349,
+      "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 93,
+      "depth": 32,
+      "height": 101,
       "layer": "",
-      "name": "Salir",
-      "persistentUuid": "6088c5ad-1e9c-4114-adf2-160b08bc67a4",
-      "width": 162,
-      "x": 738,
-      "y": 585,
-      "zOrder": 5,
+      "name": "BtnSalir",
+      "persistentUuid": "6487ba3d-52e8-499a-938c-2066b899db01",
+      "width": 241,
+      "x": 704,
+      "y": 544,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 101,
+      "layer": "",
+      "name": "BtnReset",
+      "persistentUuid": "dff4246a-1d21-4e68-95ed-2f6ec2544643",
+      "width": 230,
+      "x": 320,
+      "y": 544,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -139,36 +139,6 @@
         "text": "DRUGMAN",
         "opacity": 255,
         "scale": 6,
-        "fontSize": 20,
-        "tint": "255;255;255",
-        "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
-        "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
-        "align": "center",
-        "wordWrap": true
-      }
-    },
-    {
-      "assetStoreId": "",
-      "name": "Reset",
-      "type": "BitmapText::BitmapTextObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "ButtonFSM",
-          "type": "ButtonStates::ButtonFSM",
-          "ShouldCheckHovering": true,
-          "State": "Idle",
-          "TouchId": 0,
-          "TouchIsInside": false,
-          "MouseIsInside": false,
-          "Index": 0
-        }
-      ],
-      "content": {
-        "text": "Reset ",
-        "opacity": 255,
-        "scale": 3,
         "fontSize": 20,
         "tint": "255;255;255",
         "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
@@ -262,33 +232,129 @@
       }
     },
     {
-      "assetStoreId": "",
-      "name": "Salir",
-      "type": "BitmapText::BitmapTextObject",
+      "assetStoreId": "0d2644a425931f79026065835332ea795353d1f99fcd6ccd47ab7927bd0f35ed",
+      "name": "BtnSalir",
+      "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [
-        {
-          "name": "ButtonFSM",
-          "type": "ButtonStates::ButtonFSM",
-          "ShouldCheckHovering": true,
-          "State": "Idle",
-          "TouchId": 0,
-          "TouchIsInside": false,
-          "MouseIsInside": false,
-          "Index": 0
-        }
-      ],
+      "behaviors": [],
       "content": {
-        "text": "Quit",
-        "opacity": 255,
-        "scale": 3,
-        "fontSize": 20,
-        "tint": "255;255;255",
-        "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
-        "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
-        "align": "center",
-        "wordWrap": true
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 6,
+        "BottomPadding": 24,
+        "TopPadding": 24,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 22,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Hovered.png5",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Idle": {
+          "bottomMargin": 22,
+          "height": 60,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Idle.png4",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Sign out",
+          "font": "prstartk.ttf",
+          "textAlignment": "center",
+          "characterSize": 27,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Pressed.png2",
+          "tiled": true,
+          "topMargin": 22,
+          "width": 192
+        }
+      }
+    },
+    {
+      "assetStoreId": "0d2644a425931f79026065835332ea795353d1f99fcd6ccd47ab7927bd0f35ed",
+      "name": "BtnReset",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "LeftPadding": 16,
+        "RightPadding": 16,
+        "PressedLabelOffsetY": 6,
+        "BottomPadding": 24,
+        "TopPadding": 24,
+        "HoveredFadeOutDuration": 0.25
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 22,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Hovered.png5",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Idle": {
+          "bottomMargin": 22,
+          "height": 60,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Idle.png4",
+          "tiled": true,
+          "topMargin": 16,
+          "width": 192
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Reset",
+          "font": "prstartk.ttf",
+          "textAlignment": "center",
+          "characterSize": 27,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 16,
+          "height": 64,
+          "leftMargin": 16,
+          "rightMargin": 16,
+          "texture": "Black Square Decorated Button_Pressed.png2",
+          "tiled": true,
+          "topMargin": 22,
+          "width": 192
+        }
       }
     }
   ],
@@ -305,16 +371,16 @@
         "objectName": "Title"
       },
       {
-        "objectName": "Reset"
-      },
-      {
-        "objectName": "Salir"
-      },
-      {
         "objectName": "BlackDecoratedButton"
       },
       {
         "objectName": "agradecimeinto"
+      },
+      {
+        "objectName": "BtnSalir"
+      },
+      {
+        "objectName": "BtnReset"
       }
     ]
   },
@@ -367,11 +433,10 @@
       "conditions": [
         {
           "type": {
-            "value": "ButtonStates::ButtonFSM::IsClicked"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
           },
           "parameters": [
-            "Reset",
-            "ButtonFSM",
+            "BtnReset",
             ""
           ]
         }
@@ -386,6 +451,16 @@
             "\"Inicio\"",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "mensaje",
+            "=",
+            "0"
+          ]
         }
       ]
     },
@@ -394,11 +469,10 @@
       "conditions": [
         {
           "type": {
-            "value": "ButtonStates::ButtonFSM::IsClicked"
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
           },
           "parameters": [
-            "Salir",
-            "ButtonFSM",
+            "BtnSalir",
             ""
           ]
         }
@@ -406,9 +480,17 @@
       "actions": [
         {
           "type": {
-            "value": "Quit"
+            "value": "Firebase::Logout"
+          },
+          "parameters": []
+        },
+        {
+          "type": {
+            "value": "Scene"
           },
           "parameters": [
+            "",
+            "\"Login\"",
             ""
           ]
         }

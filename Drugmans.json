@@ -25,7 +25,7 @@
     "author": "Cars",
     "windowWidth": 1280,
     "windowHeight": 720,
-    "latestCompilationDirectory": "C:\\Users\\santi\\OneDrive\\Imágenes\\game",
+    "latestCompilationDirectory": "C:\\Users\\santi\\Music\\pr",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -1266,6 +1266,12 @@
       "name": "dificultad",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "mensaje",
+      "type": "string",
+      "value": ""
     }
   ],
   "layouts": [
