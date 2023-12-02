@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.6244537826600024,
+    "zoomFactor": 1.0615714305220039,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -6754,8 +6754,8 @@
       "name": "minutos",
       "persistentUuid": "ca51ad01-77cd-43a3-a918-d0d8ffb53bea",
       "width": 68,
-      "x": 1117,
-      "y": 17,
+      "x": 1019,
+      "y": 15,
       "zOrder": 29,
       "numberProperties": [],
       "stringProperties": [],
@@ -6769,8 +6769,8 @@
       "name": "separadorTiempo",
       "persistentUuid": "70a66b1d-b34e-4c06-b81e-38a12314be87",
       "width": 0,
-      "x": 1155,
-      "y": 15,
+      "x": 1054,
+      "y": 10,
       "zOrder": 30,
       "numberProperties": [],
       "stringProperties": [],
@@ -6785,8 +6785,8 @@
       "name": "segundos",
       "persistentUuid": "bfe4e431-e82f-460b-848d-18269a784a2d",
       "width": 66,
-      "x": 1178,
-      "y": 19,
+      "x": 1077,
+      "y": 16,
       "zOrder": 31,
       "numberProperties": [],
       "stringProperties": [],
@@ -7137,6 +7137,12 @@
           "name": "colision",
           "type": "number",
           "value": 0
+        },
+        {
+          "folded": true,
+          "name": "mensaje",
+          "type": "number",
+          "value": 0
         }
       ],
       "effects": [],
@@ -7170,9 +7176,9 @@
           "HealToBeApplied": 0
         },
         {
-          "extraBorder": 3,
           "name": "Pathfinding",
           "type": "PathfindingBehavior::PathfindingBehavior",
+          "extraBorder": 3,
           "acceleration": 70,
           "cellHeight": 15,
           "cellWidth": 15,
@@ -10418,6 +10424,179 @@
         "align": "left",
         "wordWrap": true
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "comentario",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.15,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 23
+                      },
+                      {
+                        "x": 61,
+                        "y": 23
+                      },
+                      {
+                        "x": 61,
+                        "y": 51
+                      },
+                      {
+                        "x": 5,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "NewSprite2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 23
+                      },
+                      {
+                        "x": 61,
+                        "y": 23
+                      },
+                      {
+                        "x": 61,
+                        "y": 51
+                      },
+                      {
+                        "x": 5,
+                        "y": 51
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Mensaje",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "\"Las drogas pueden hacerte sentir \ninvencible, pero solo es una ilusion.\nLas drogas te controlaran a ti, no tu a ellas.\"",
+        "opacity": 255,
+        "scale": 1.5,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+        "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+        "align": "center",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Mensaje2",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "\"Las drogas pueden parecer divertidas\n al principio, pero pueden tener consecuencias \ndevastadoras. NO te dejes enganar.\"",
+        "opacity": 255,
+        "scale": 1.5,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+        "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+        "align": "center",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Mensaje3",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Las drogas arruinan vidas. \nNO hay esperanza en la droga",
+        "opacity": 255,
+        "scale": 2,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+        "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+        "align": "center",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Mensaje4",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Dile NO a las \ndrogas",
+        "opacity": 255,
+        "scale": 5,
+        "fontSize": 20,
+        "tint": "255;0;0",
+        "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited.fnt",
+        "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited3.png",
+        "align": "center",
+        "wordWrap": true
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -10467,6 +10646,21 @@
       },
       {
         "objectName": "Score"
+      },
+      {
+        "objectName": "Mensaje"
+      },
+      {
+        "objectName": "Mensaje2"
+      },
+      {
+        "objectName": "Mensaje3"
+      },
+      {
+        "objectName": "Mensaje4"
+      },
+      {
+        "objectName": "comentario"
       }
     ]
   },
@@ -12654,6 +12848,188 @@
                 "assets\\police-.aac",
                 "",
                 "15",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "mensaje",
+                "=",
+                "GlobalVariable(mensaje)+1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "mensaje",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Mensaje",
+                    "176",
+                    "375",
+                    "\"Vida\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "mensaje",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Mensaje2",
+                    "376",
+                    "575",
+                    "\"Vida\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "mensaje",
+                    "=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Mensaje3",
+                    "488",
+                    "198",
+                    "\"Vida\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "mensaje",
+                    "=",
+                    "4"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "Mensaje4",
+                    "261",
+                    "298",
+                    "\"Vida\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"Powered\"",
+                ">=",
+                "7"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Mensaje",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Mensaje2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Mensaje3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Mensaje4",
                 ""
               ]
             }
