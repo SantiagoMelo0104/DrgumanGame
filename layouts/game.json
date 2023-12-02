@@ -10754,6 +10754,19 @@
                 "PathfindingObstacle",
                 "yes"
               ]
+            },
+            {
+              "type": {
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"https://drugman-backend.azurewebsites.net/crear\"",
+                "Firebase::GetUserEmail()+\"/\"+Firebase::GetUserDisplayName()+\"/\"+ToString(Variable(Puntaje))",
+                "\"POST\"",
+                "\"application/json\"",
+                "",
+                ""
+              ]
             }
           ],
           "events": [
@@ -10942,6 +10955,19 @@
                 "",
                 "\"Finish\"",
                 "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"https://drugman-backend.azurewebsites.net/crear\"",
+                "Firebase::GetUserEmail()+\"/\"+Firebase::GetUserDisplayName()+\"/\"+ToString(Variable(Puntaje))",
+                "\"POST\"",
+                "\"application/json\"",
+                "",
+                ""
               ]
             }
           ]
@@ -11543,6 +11569,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Animación jugador",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -11779,7 +11806,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Jugadores",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -12191,6 +12217,19 @@
                 "\"Finish\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"https://drugman-backend.azurewebsites.net/crear\"",
+                "Firebase::GetUserEmail()+\"/\"+Firebase::GetUserDisplayName()+\"/\"+ToString(Variable(Puntaje))",
+                "\"POST\"",
+                "\"application/json\"",
+                "",
+                ""
+              ]
             }
           ]
         },
@@ -12207,6 +12246,7 @@
           "comment": "Seguir al personaje principal"
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -12321,6 +12361,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -12435,6 +12476,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -12549,6 +12591,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -12738,6 +12781,19 @@
                 "20",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "SendAsyncRequest"
+              },
+              "parameters": [
+                "\"https://drugman-backend.azurewebsites.net/user\"",
+                "Firebase::GetUserEmail()+\"/\"+Firebase::GetUserDisplayName()+\"/\"+ToString(Variable(Puntaje))",
+                "\"POST\"",
+                "\"application/json\"",
+                "",
+                ""
+              ]
             }
           ]
         }
@@ -12749,6 +12805,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Poderes del Jugador",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -13911,6 +13968,19 @@
           "parameters": [
             "",
             "\"Finish\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "SendAsyncRequest"
+          },
+          "parameters": [
+            "\"https://drugman-backend.azurewebsites.net/crear\"",
+            "Firebase::GetUserEmail()+\"/\"+Firebase::GetUserDisplayName()+\"/\"+ToString(Variable(Puntaje))",
+            "\"POST\"",
+            "\"application/json\"",
+            "",
             ""
           ]
         }
